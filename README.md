@@ -1,2 +1,3 @@
 # Web-Snippets
-A collection of useful web implementations in HTML/CSS, JS, React, &amp; ++ 
+### A collection of useful web-based implementations in HTML/CSS, JS, &amp; ReactJS
+###  

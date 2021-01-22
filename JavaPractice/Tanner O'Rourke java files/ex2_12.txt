@@ -1,0 +1,7 @@
+public class ex2_12
+{
+	public void (String[] args)
+	{
+	
+	}
+}
