@@ -1,0 +1,4 @@
+language: c
+install: make deps
+target: make test
+sudo: enabled
